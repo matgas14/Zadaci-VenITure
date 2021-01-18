@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "VenITure_1345f7a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrazenjeSumeB",
+            "request": "launch",
+            "mainClass": "TrazenjeSumeB",
+            "projectName": "VenITure_1345f7a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrom",
+            "request": "launch",
+            "mainClass": "Palindrom",
+            "projectName": "VenITure_1345f7a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch KamenSkarePapir",
+            "request": "launch",
+            "mainClass": "KamenSkarePapir",
+            "projectName": "VenITure_1345f7a3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch RockPaperScissors",
+            "request": "launch",
+            "mainClass": "RockPaperScissors",
+            "projectName": "VenITure_1345f7a3"
+        }
+    ]
+}
